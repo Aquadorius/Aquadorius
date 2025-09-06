@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm Abdullah  
 
-<!--
-**Aquadorius/Aquadorius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Muhammad Abdullah**. I’m a Final Year Accounting & Finance Student and an **Aspiring Data Analyst**.  
+I’m passionate about **SQL, Excel, Power BI, and turning data into insights**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Stay Connected  
+
+Let’s stay in touch! Feel free to connect with me on the following platforms:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-27aa02257/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Aquadorius)  
+
+---
+
+## 📚 Projects & Courses  
+
+All projects and repositories listed here are part of my learning journey and showcase my work in data analysis and data warehousing.  
+
+- ✅ **SQL Data Warehouse Project:** [Repo Link](https://github.com/Aquadorius/SQL-Data-Warehouse-Project.git)  
+- ✅ **SQL Exploratory Data Analysis Project:** [Repo Link](https://github.com/Aquadorius/SQL-Exploratory-Data-Analytics.git)  
+
+---
+
+⭐ I’m always open to collaboration on data projects, so feel free to connect or reach out!  
