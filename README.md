@@ -18,19 +18,14 @@ Let's stay in touch — click any button below:
 Here are the main tools I use — official SVG logos (via Shields.io / SimpleIcons) with consistent padding:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white&labelColor=000000" alt="Notion" height="35"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white&labelColor=217346" alt="Excel" height="35"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=black&labelColor=F2C811" alt="Power BI" height="35"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white&labelColor=E97627" alt="Tableau" height="35"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white&labelColor=CC2927" alt="SQL Server" height="35"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&labelColor=3776AB" alt="Python" height="35"/>
 </p>
+
 ---
 
 ## 📚 Projects & Courses
