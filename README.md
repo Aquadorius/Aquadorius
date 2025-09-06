@@ -57,3 +57,19 @@ All projects and repositories listed here are part of my learning journey and sh
 ---
 
 ⭐ I’m always open to collaboration on data projects — feel free to connect!
+
+<div align="center">
+  
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=muhammad-abdullah-27aa02257&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+
+### 🔥 Streak Stats  
+<img src="https://streak-stats.demolab.com/?user=muhammad-abdullah-27aa02257&theme=dark" alt="GitHub Streak" />
+
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-abdullah-27aa02257&layout=compact&theme=dark" alt="Top Languages" />
+
+### 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=muhammad-abdullah-27aa02257&color=blue" alt="Profile Views" />
+
+</div>
