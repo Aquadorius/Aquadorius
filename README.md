@@ -9,8 +9,14 @@ I’m passionate about **SQL, Excel, Power BI, and turning data into insights**.
 
 Let's stay in touch — click any button below:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadabdullah4028@gmail.com)
+<p>
+<a href="https://linkedin.com/in/muhammad-abdullah-27aa02257" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="text-decoration: none; border: none;"/>
+</a>
+<a href="mailto:muhammadabdullah4028@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="text-decoration: none; border: none;"/>
+</a>
+</p>
 
 ---
 
