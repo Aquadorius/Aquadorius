@@ -58,9 +58,9 @@ All projects and repositories listed here are part of my learning journey and sh
 
 ⭐ I’m always open to collaboration on data projects — feel free to connect!
 
-<div align="center">
+<div align="left">
   
-### 📊 GitHub Stats
+### 📊 Profile Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Aquadorius&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 
 ### 🔥 Streak Stats  
