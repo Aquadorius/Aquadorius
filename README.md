@@ -37,7 +37,6 @@ Here are the main tools I use — official SVG logos (via Shields.io / SimpleIco
     <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau"/>
   </a>
 </p>
-
 ---
 
 ## 📚 Projects & Courses
