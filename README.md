@@ -61,15 +61,15 @@ All projects and repositories listed here are part of my learning journey and sh
 <div align="center">
   
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=muhammad-abdullah-27aa02257&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aquadorius&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 
 ### 🔥 Streak Stats  
-<img src="https://streak-stats.demolab.com/?user=muhammad-abdullah-27aa02257&theme=dark" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Aquadorius&theme=dark" alt="GitHub Streak" />
 
 ### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-abdullah-27aa02257&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquadorius&layout=compact&theme=dark" alt="Top Languages" />
 
 ### 👀 Profile Views
-<img src="https://komarev.com/ghpvc/?username=muhammad-abdullah-27aa02257&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Aquadorius&color=blue" alt="Profile Views" />
 
 </div>
