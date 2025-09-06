@@ -22,7 +22,7 @@ Let's stay in touch — click any button below:
 
 ## 🛠️ Technologies & Tools
 
-
+Tools I use frequently
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -47,7 +47,7 @@ Let's stay in touch — click any button below:
 
 ---
 
-## 📚 Projects & Courses
+## 📚 Projects 
 
 All projects and repositories listed here are part of my learning journey and showcase my work in data analysis and data warehousing.
 
