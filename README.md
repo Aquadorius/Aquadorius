@@ -9,12 +9,12 @@ I’m passionate about **SQL, Excel, Power BI, and turning data into insights**.
 
 Let’s stay in touch! Feel free to connect with me on the following platforms:  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-27aa02257/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Aquadorius)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-27aa02257/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadabdullah4028@gmail.com)  
 
 ---
 
-## 📚 Projects & Courses  
+## 📚 Projects 
 
 All projects and repositories listed here are part of my learning journey and showcase my work in data analysis and data warehousing.  
 
