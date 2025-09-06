@@ -44,6 +44,7 @@ Let's stay in touch — click any button below:
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="48" height="48" style="border: none;"/>
   </a>
 </p>
+
 ---
 
 ## 📚 Projects & Courses
