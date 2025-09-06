@@ -18,12 +18,24 @@ Let's stay in touch — click any button below:
 Here are the main tools I use — official SVG logos (via Shields.io / SimpleIcons) with consistent padding:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,mysql" alt="Python and MySQL"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLServer-Dark.svg" alt="SQL Server" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI-Dark.svg" alt="Power BI" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Excel-Dark.svg" alt="Excel" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Tableau-Dark.svg" alt="Tableau" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=notion" alt="Notion"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python"/>
+  </a>
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=notion" alt="Notion"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL Server"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://skillicons.dev/icons?i=excel" alt="Excel"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau"/>
+  </a>
 </p>
 
 ---
