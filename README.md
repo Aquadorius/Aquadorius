@@ -54,7 +54,7 @@ All projects and repositories listed here are part of my learning journey and sh
 - ✅ **SQL Data Warehouse Project:** [Repo Link](https://github.com/Aquadorius/SQL-Data-Warehouse-Project.git)  
 - ✅ **SQL Exploratory Data Analysis Project:** [Repo Link](https://github.com/Aquadorius/SQL-Exploratory-Data-Analytics.git)
 
-I’m always open to collaboration on data projects — feel free to connect!
+I’m always open to collaboration on data projects  feel free to connect!
 
 
 <div align="left">
