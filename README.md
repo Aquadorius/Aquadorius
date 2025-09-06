@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Abdullah
 
-My name is **Muhammad Abdullah**. I’m a Final Year Accounting & Finance Student and an **Aspiring Data Analyst**.  
+I’m a Final Year Accounting & Finance Student and an **Aspiring Data Analyst**.  
 I’m passionate about **SQL, Excel, Power BI, and turning data into insights**.
 
 ---
 
 ## 🌐 Stay Connected
 
-Let's stay in touch — click any button below:
+Let's stay in touch 
 
 <p>
 <a href="https://linkedin.com/in/muhammad-abdullah-27aa02257" target="_blank">
