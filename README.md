@@ -18,12 +18,13 @@ Let's stay in touch — click any button below:
 Here are the main tools I use — official SVG logos (via Shields.io / SimpleIcons) with consistent padding:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,mysql" alt="Python and MySQL"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLServer-Dark.svg" alt="SQL Server" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI-Dark.svg" alt="Power BI" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Excel-Dark.svg" alt="Excel" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Tableau-Dark.svg" alt="Tableau" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=notion" alt="Notion"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="48" height="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="48" height="48"/>
 </p>
 
 ---
