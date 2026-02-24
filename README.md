@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Abdullah
 
-I’m a Final Year Accounting & Finance Student and an **Aspiring Data Analyst**.  
-I’m passionate about **SQL, Excel, Power BI, and turning data into insights**.
-
+I am a **Data Analyst** with background in **Accounting and Finnance**
+I’m passionate about building data warehouses that solve business problems and Dashboard that show  insights. 
 ---
 
 ## 🌐 Stay Connected
